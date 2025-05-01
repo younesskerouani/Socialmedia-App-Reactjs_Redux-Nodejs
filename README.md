@@ -1,6 +1,6 @@
-# E-commerce Website
+# Social Media Website
 
-A modern e-commerce platform with React.js frontend and Node.js backend.
+A modern Social Media platform with React.js frontend and Node.js backend.
 
 ## Live Demo
 
