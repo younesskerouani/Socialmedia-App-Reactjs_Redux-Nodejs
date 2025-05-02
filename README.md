@@ -8,6 +8,9 @@ A modern Social Media platform with React.js frontend and Node.js backend.
 
 <img width="958" alt="2" src="https://github.com/user-attachments/assets/221bca0b-dc44-4c11-9297-3cc0c057bc43" />
 
+<img width="945" alt="Capture" src="https://github.com/user-attachments/assets/264f8d82-9667-4cc8-b1de-5b0698bfe549" />
+
+
 ## Getting Started
 
 Follow these simple steps to get the application running on your local machine.
